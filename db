@@ -1,0 +1,4 @@
+user=bononibononi
+password=Senha7Senh@
+dburl=jdbc:mysql://localhost:3306/bancoteste?allowPublicKeyRetrieval=true
+useSSL=false
